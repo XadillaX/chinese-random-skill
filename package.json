@@ -1,6 +1,6 @@
 {
   "name": "chinese-random-skill",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate Chinese skill using Node.js.",
   "main": "index.js",
   "directories": {
