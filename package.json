@@ -1,0 +1,34 @@
+{
+  "name": "chinese-random-skill",
+  "version": "0.0.1",
+  "description": "Generate Chinese skill using Node.js.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "sugar": "~1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XadillaX/chinese-random-skill.git"
+  },
+  "keywords": [
+    "chinese",
+    "skill",
+    "skill generator",
+    "chinese skill",
+    "random",
+    "random skill",
+  ],
+  "author": "XadillaX",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/XadillaX/chinese-random-skill/issues"
+  },
+  "homepage": "https://github.com/XadillaX/chinese-random-skill"
+}
