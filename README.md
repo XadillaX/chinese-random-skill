@@ -49,6 +49,10 @@ console.log(randomName.generate());
 粗壶棍谱
 ```
 
+## Related Article
+
+http://xcoder.in/2014/09/01/how-i-made-chinese-random-x/
+
 ## Contribute
 
 You're welcome to fork and push requests!
