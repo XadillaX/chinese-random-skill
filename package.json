@@ -1,6 +1,6 @@
 {
   "name": "chinese-random-skill",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Generate Chinese skill using Node.js.",
   "main": "index.js",
   "directories": {
@@ -26,7 +26,7 @@
     "random skill"
   ],
   "author": "XadillaX",
-  "license": "MulanPSL2",
+  "license": "MulanPSL-2.0",
   "bugs": {
     "url": "https://github.com/XadillaX/chinese-random-skill/issues"
   },
