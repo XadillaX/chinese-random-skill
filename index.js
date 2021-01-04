@@ -4,8 +4,12 @@
  * Copyright (c) 2014 Huaban.com, all rights
  * reserved.
  */
-require("sugar");
+"use strict";
+
+var random = require("random");
+
 var name = require("./lib/name");
+
 var suffix = [
     "剑", "剑法", "剑谱", "剑诀",
     "枪", "枪法", "枪诀",
@@ -20,5 +24,5 @@ exports.generate = function() {
     var len = suffix.length;
     var pre = name.get();
 
-    return pre + suffix[Number.random(0, len - 1)];
+    return pre + suffix[random.int(0, len - 1)];
 };
